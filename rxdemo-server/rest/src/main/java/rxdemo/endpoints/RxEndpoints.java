@@ -11,9 +11,9 @@ import spark.Response;
 import static spark.Spark.*;
 
 // change to be deployed
-// triggering a build
 
-// Change a file to force a bamboo rebuild
+// another change to see update from master to course branch
+
 public class RxEndpoints {
    public static void initalizeEndpoints() {
 
