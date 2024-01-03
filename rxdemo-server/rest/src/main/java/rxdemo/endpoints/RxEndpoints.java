@@ -51,6 +51,6 @@ public class RxEndpoints {
          }
          return "OK";
       });
-
+// Comentario aparte
    }
 }
