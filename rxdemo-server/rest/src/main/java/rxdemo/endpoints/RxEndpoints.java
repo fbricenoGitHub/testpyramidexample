@@ -12,6 +12,8 @@ import static spark.Spark.*;
 
 // change to be deployed
 // triggering a build
+
+// Change a file to force a bamboo rebuild
 public class RxEndpoints {
    public static void initalizeEndpoints() {
 
