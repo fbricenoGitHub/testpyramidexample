@@ -12,7 +12,6 @@ import static spark.Spark.*;
 
 // change to be deployed
 
-// another change to see update from master to course branch
 
 public class RxEndpoints {
    public static void initalizeEndpoints() {
