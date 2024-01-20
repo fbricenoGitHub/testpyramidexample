@@ -10,7 +10,7 @@ import spark.Response;
 
 import static spark.Spark.*;
 
-// change to be deployed
+// Deploying directly from commit trigger
 
 
 public class RxEndpoints {
